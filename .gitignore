@@ -13,9 +13,6 @@ dist-ssr
 *.local
 
 # Environment files
-.env
-.env.*
-.env.local
 
 # Vite cache
 .vite/
@@ -24,7 +21,6 @@ dist-ssr
 coverage/
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -34,3 +30,4 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw?
+config.bat
